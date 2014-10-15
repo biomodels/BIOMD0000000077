@@ -1,3 +1,21 @@
+# BIOMD0000000077: Model_1
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000077.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000077.git@20140916`
+
+
+# Model Notes
 
 
 # A mathematical model quantifying GnRH-induced LH secretion from gonadotropes
@@ -18,4 +36,5 @@ Shapiro B., Snoep J.L., Hucka M. (2006) BioModels Database: A Free,
 Centralized Database of Curated, Published, Quantitative Kinetic Models of
 Biochemical and Cellular Systems Nucleic Acids Res., 34: D689-D691.](http://ww
 w.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=16381960)
+
 
